@@ -20,7 +20,7 @@ class Buffet{
   // En la clase Buffet, cree un método Servir que seleccione aleatoriamente un objeto Comida de la lista Menú y devuelva el objeto Comida
   public Comida Servir(){
     Random rand = new Random();
-    int indice = rand.Next(Menu.Count);
+    int indice = rand.Next(Menu.Count());
     return Menu[indice];
   }
 }
