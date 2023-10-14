@@ -1,0 +1,15 @@
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\bin\Debug\net6.0\NinjaHambriento.exe
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\bin\Debug\net6.0\NinjaHambriento.deps.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\bin\Debug\net6.0\NinjaHambriento.runtimeconfig.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\bin\Debug\net6.0\NinjaHambriento.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\bin\Debug\net6.0\NinjaHambriento.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\NinjaHambriento.csproj.AssemblyReference.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\NinjaHambriento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\NinjaHambriento.AssemblyInfoInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\NinjaHambriento.AssemblyInfo.cs
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\NinjaHambriento.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\NinjaHambriento.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\refint\NinjaHambriento.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\NinjaHambriento.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\NinjaHambriento.genruntimeconfig.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaHambriento\obj\Debug\net6.0\ref\NinjaHambriento.dll
